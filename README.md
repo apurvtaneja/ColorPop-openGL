@@ -1,1 +1,2 @@
-# Project1
+# Color Pop! Game
+The project is a small and simple game. To earn points in the game, the user must match the falling blocks with the same color blocks. The user can match the blocks either vertically or horizontally (or both). As a result, those blocks will vanish and the user will receive points. The falling blocks are of varying colors and are positioned at random along the horizontal line. To make things more interesting, the rate at which the blocks fall down gradually increases as the game progresses.
